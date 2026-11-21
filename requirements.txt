@@ -1,0 +1,3 @@
+# yt-dlp changes often (site fixes and security fixes). Pinned so the version in use is known and
+# can be checked for vulnerabilities; bump it regularly (Dependabot can do this automatically).
+yt-dlp==2026.10.26
